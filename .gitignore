@@ -1,7 +1,3 @@
 .*.swp
 .DS_Store
 .idea/*
-
-apktool.yml
-build/
-tests/priorities
