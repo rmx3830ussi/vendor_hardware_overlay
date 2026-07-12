@@ -55,11 +55,20 @@
     <bool name="config_useDevInputEventForAudioJack">true</bool>
     <bool name="skip_restoring_network_selection">true</bool>
     <dimen name="quick_qs_offset_height">36.0dip</dimen>
+    <dimen name="quick_qs_total_height">164.0dp</dimen>
+    <dimen name="resolver_max_collapsed_height">342.0dp</dimen>
+    <dimen name="resolver_max_collapsed_height_with_tabs">390.0dp</dimen>
     <dimen name="rounded_corner_radius">30.0dip</dimen>
     <dimen name="status_bar_height_landscape">28.0dip</dimen>
     <dimen name="status_bar_height_portrait">36.0dip</dimen>
+    <dimen name="toast_y_offset">72.0dp</dimen>
     <integer name="config_autoBrightnessDarkeningLightDebounce">3000</integer>
     <string name="config_ims_package">com.mediatek.ims</string>
-    <string name="config_mainBuiltInDisplayCutout">M -8,0 L -8,36 L 8,36 L 8,0 Z @dp</string>
+    <string name="config_mainBuiltInDisplayCutout">M -6,0 L -6,36 L 6,36 L 6,0 Z @dp</string>
+    <string name="config_qualified_networks_service_package">com.android.phone</string>
+    <string name="config_wlan_data_service_class">com.mediatek.internal.telephony.dataconnection.IwlanDataService</string>
+    <string name="config_wlan_data_service_package">com.android.phone</string>
+    <string name="config_wlan_network_service_class">com.mediatek.internal.telephony.IWlanNetworkService</string>
+    <string name="config_wlan_network_service_package">com.android.phone</string>
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">@string/config_mainBuiltInDisplayCutout</string>
 </resources>
