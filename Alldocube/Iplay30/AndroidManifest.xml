@@ -2,8 +2,7 @@
     package="me.phh.treble.overlay.alldocube.iplay30"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay
-        android:targetPackage="android"
+    <overlay android:targetPackage="android"
         android:requiredSystemPropertyName="ro.product.device"
         android:requiredSystemPropertyValue="T1012"
         android:priority="614"
