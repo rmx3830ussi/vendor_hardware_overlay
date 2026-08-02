@@ -153,7 +153,8 @@
     <string name="config_mainBuiltInDisplayCutout" translatable="false">M 0,0 H -40 V 104 H 40 V 0 H 0 Z</string>
 
     <bool name="config_displayBlanksAfterDoze">false</bool>
-
+    
+    <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
         <item>2</item>
         <item>4</item>
@@ -262,7 +263,8 @@
         <item>95000</item>
         <item>100000</item>
     </integer-array>
-
+    
+    <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>36</item>
         <item>54</item>
         <item>65</item>
