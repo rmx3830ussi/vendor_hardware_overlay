@@ -218,6 +218,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oppo-reno6-5g-systemui \
 	treble-overlay-oppo-renopro2019 \
 	treble-overlay-oppo-renopro2019-systemui \
+	treble-overlay-oppo-r9s \
+	treble-overlay-oppo-r9s-systemui \
 	treble-overlay-oukitel-c18pro \
 	treble-overlay-oukitel-wp8pro \
 	treble-overlay-razer-cheryl \
