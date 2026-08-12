@@ -6,6 +6,6 @@
     <overlay android:targetPackage="com.android.systemui"
         android:requiredSystemPropertyName="ro.product.device"
         android:requiredSystemPropertyValue="rubens"
-        android:priority="9999"
+        android:priority="833"
         android:isStatic="true" />
 </manifest>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    ╔══════════════════════════════════════════════════════════════════════╗
+    ║  POWER PROFILE — MUST BE EXTRACTED FROM YOUR STOCK FIRMWARE        ║
+    ╚══════════════════════════════════════════════════════════════════════╝
+    
+    This file defines CPU cluster speeds, power draw per frequency,
+    battery capacity, and component power consumption for your device.
+    
+    🔴 Using wrong values = inaccurate battery stats, CPU throttling issues
+    
+    TO EXTRACT YOUR DEVICE'S POWER PROFILE:
+      1. Get the stock product overlay APK:
+           /system/product/overlay/framework-res__auto_generated_rro_product.apk
+      2. Decompile it:
+           apktool d framework-res__auto_generated_rro_product.apk -o product_overlay
+      3. Copy the power_profile.xml from:
+           product_overlay/res/xml/power_profile.xml
+      4. Replace this file with the extracted one.
+    
+    If there is NO power profile in the product overlay:
+      - Check the vendor overlay APK at /system/vendor/overlay/
+      - If neither has one, your device uses AOSP defaults — you can DELETE this file
+    
+    Reference: The current file was extracted from Samsung Galaxy A90 5G (SD855),
+    which will NOT work correctly for other devices. DO NOT reuse it.
+    
+    See: https://github.com/TrebleDroid/treble_experimentations/wiki/How-to-create-an-overlay%3F
+-->
+<device name="Android">
+    <!-- CPU and power values removed — extract from your stock firmware -->
+</device>

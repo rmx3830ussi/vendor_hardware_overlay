@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-Redmi-dizi \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-Telephony-LTE \
+	treble-overlay-alldocube-iplay30 \
 	treble-overlay-alldocube-xneo \
 	treble-overlay-asus-rogphone \
 	treble-overlay-asus-zenfone5 \
@@ -23,8 +24,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-blackview-shark8-systemui \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
-	treble-overlay-cubot-kkxpro \
 	treble-overlay-cubot-kkp5 \
+	treble-overlay-cubot-kkxpro \
 	treble-overlay-devinputjack \
 	treble-overlay-doogee-vmax \
 	treble-overlay-duoqin-qin2pro \
@@ -138,6 +139,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-gpure \
 	treble-overlay-moto-hiphi \
 	treble-overlay-moto-hiphi-systemui \
+	treble-overlay-moto-lamu \
 	treble-overlay-moto-nio \
 	treble-overlay-moto-one \
 	treble-overlay-moto-one-action \
@@ -152,7 +154,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-tesla-systemui \
 	treble-overlay-moto-tundra \
 	treble-overlay-moto-tundra-systemui \
-	treble-overlay-moto-lamu \
+	treble-overlay-motorola-austin \
+	treble-overlay-motorola-austin-systemui \
 	treble-overlay-mtk-ims \
 	treble-overlay-multilaser-m84gso0v \
 	treble-overlay-nokia-b2n-7plus \
@@ -214,6 +217,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oppo-findx-systemui \
 	treble-overlay-oppo-findx3pro \
 	treble-overlay-oppo-findx3pro-systemui \
+	treble-overlay-oppo-r9s \
+	treble-overlay-oppo-r9s-systemui \
 	treble-overlay-oppo-reno6-5g \
 	treble-overlay-oppo-reno6-5g-systemui \
 	treble-overlay-oppo-renopro2019 \
@@ -449,6 +454,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmi9-systemui \
 	treble-overlay-xiaomi-redmi9a \
 	treble-overlay-xiaomi-redmi9t \
+	treble-overlay-xiaomi-redmia5 \
+	treble-overlay-xiaomi-redmia5-systemui \
 	treble-overlay-xiaomi-redmigo \
 	treble-overlay-xiaomi-redmik20pro \
 	treble-overlay-xiaomi-redmik20pro-systemui \
@@ -490,4 +497,3 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9t \
 	treble-overlay-xiaomi-redmis2 \
 	treble-overlay-xiaomi-thor \
-
