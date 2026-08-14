@@ -101,10 +101,6 @@
          - config_switch_phone_on_voice_reg_state_change
          - config_dozeUdfpsLongPressSensorType
          ============================================================ -->
-    <set android:shareInterpolator="false" android:detachWallpaper="true"
-         xmlns:android="http://schemas.android.com/apk/res/android">
-      <alpha android:interpolator="@android:interpolator/decelerate_quint" android:duration="300" android:fillBefore="true" android:fromAlpha="1.0" android:toAlpha="1.0" android:fillEnabled="true" />
-    </set>
 
     <bool name="config_unplugTurnsOnScreen">true</bool>
 
