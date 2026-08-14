@@ -34,10 +34,9 @@
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.001960785</item>
     <item type="dimen" name="config_wallpaperMaxScale">1.0</item>
-    <dimen name="navigation_bar_height">40.0dip</dimen>
-    <dimen name="navigation_bar_height_landscape">40.0dip</dimen>
-    <dimen name="navigation_bar_width">40.0dip</dimen>
-    <dimen name="quick_qs_offset_height">36.0dip</dimen>
+    <dimen name="navigation_bar_height">40dp</dimen>
+    <dimen name="quick_qs_offset_height">36dp</dimen>
+    <dimen name="navigation_bar_height_landscape">40dp</dimen>
 
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>8</item>
