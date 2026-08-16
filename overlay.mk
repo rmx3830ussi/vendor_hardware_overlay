@@ -147,6 +147,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-onefusion-systemui \
 	treble-overlay-moto-onefusionplus \
 	treble-overlay-moto-onehyper \
+	treble-overlay-moto-paros \
 	treble-overlay-moto-razr \
 	treble-overlay-moto-rhodep \
 	treble-overlay-moto-rhodep-systemui \
