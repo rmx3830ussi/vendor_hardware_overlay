@@ -147,6 +147,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-onefusion-systemui \
 	treble-overlay-moto-onefusionplus \
 	treble-overlay-moto-onehyper \
+	treble-overlay-moto-paros \
 	treble-overlay-moto-razr \
 	treble-overlay-moto-rhodep \
 	treble-overlay-moto-rhodep-systemui \
@@ -441,6 +442,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-pocom5 \
 	treble-overlay-xiaomi-pocom5-systemui \
 	treble-overlay-xiaomi-pocox3gt \
+    treble-overlay-xiaomi-redmi10c \
+	treble-overlay-xiaomi-redmi10c-systemui \
 	treble-overlay-xiaomi-redmi10x5g \
 	treble-overlay-xiaomi-redmi10x5g-systemui \
 	treble-overlay-xiaomi-redmi6 \
@@ -497,3 +500,5 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9t \
 	treble-overlay-xiaomi-redmis2 \
 	treble-overlay-xiaomi-thor \
+	treble-overlay-xiaomi-tides \
+	treble-overlay-xiaomi-tides-systemui \
