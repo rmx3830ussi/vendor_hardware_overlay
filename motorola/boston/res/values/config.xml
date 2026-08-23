@@ -189,7 +189,8 @@
     <string-array name="config_biometric_sensors">
         <item>0:2:15</item>
     </string-array>
-
+    
+<integer-array name="config_autoBrightnessLevels">
         <item>2</item>
         <item>4</item>
         <item>10</item>
@@ -204,7 +205,7 @@
         <item>20000</item>
         <item>30000</item>
     </integer-array>
-
+<integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>9</item>
         <item>26</item>
         <item>34</item>
