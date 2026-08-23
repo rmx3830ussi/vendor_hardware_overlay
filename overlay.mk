@@ -159,6 +159,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-tundra-systemui \
 	treble-overlay-motorola-austin \
 	treble-overlay-motorola-austin-systemui \
+	treble-overlay-motorola-boston \
+	treble-overlay-motorola-boston-systemui \
 	treble-overlay-mtk-ims \
 	treble-overlay-multilaser-m84gso0v \
 	treble-overlay-nokia-b2n-7plus \
@@ -316,6 +318,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-gts8 \
 	treble-overlay-samsung-gts8p \
 	treble-overlay-samsung-j6 \
+	treble-overlay-samsung-m23xq \
+	treble-overlay-samsung-m23xq-systemui \
 	treble-overlay-samsung-m31 \
 	treble-overlay-samsung-m31-systemui \
 	treble-overlay-samsung-m31s \
