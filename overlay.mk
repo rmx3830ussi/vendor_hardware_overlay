@@ -89,6 +89,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
 	treble-overlay-inoi-a75 \
+    treble-overlay-lenovo-P89990JA1 \
+    treble-overlay-lenovo-P89990JA1-systemui \
 	treble-overlay-lenovo-Q706F \
 	treble-overlay-lenovo-TB610FU \
 	treble-overlay-lenovo-Y70 \
